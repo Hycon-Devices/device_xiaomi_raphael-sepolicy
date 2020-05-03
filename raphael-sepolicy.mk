@@ -29,6 +29,7 @@ BOARD_SEPOLICY_DIRS += \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/fod \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/last_kmsg \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/light \
+    device/xiaomi/raphael-sepolicy/vendor/xiaomi/misys \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/motor \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/mlipay \
     device/xiaomi/raphael-sepolicy/vendor/xiaomi/parts \
