@@ -4,10 +4,6 @@
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
     device/xiaomi/raphael-sepolicy/private
 
-# Dolby Sepolicy
-BOARD_SEPOLICY_DIRS += \
-    device/xiaomi/raphael-sepolicy/vendor/dolby
-
 # NXP Sepolicy
 BOARD_SEPOLICY_DIRS += \
     device/xiaomi/raphael-sepolicy/vendor/nxp
